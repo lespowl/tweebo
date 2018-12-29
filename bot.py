@@ -1,2 +1,0 @@
-print("Helllllooo Weellt")
-#end
